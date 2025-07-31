@@ -63,8 +63,7 @@ const perguntas = [
             {
                 texto: "Você se sente chateado e excluído, questionando por que não foi convidado. Isso te afeta emocionalmente, principalmente porque as redes sociais tendem a amplificar essas situações, fazendo você se comparar e se sentir ainda mais isolado.",
                 afirmacao: "Ver momentos importantes sendo compartilhados nas redes sociais pode gerar sentimentos de rejeição e insegurança, especialmente se você sentir que está sendo deixado de fora. Isso pode afetar a saúde emocional, criando uma sensação de inadequação.",
-            }
-
+            },
             {
                 texto: "Você não se sente muito afetado, entende que nem sempre pode estar presente em todos os eventos e segue em frente. Nas redes sociais, você prefere se focar no que te traz felicidade e não se deixar abalar pelas escolhas alheias.",
                 afirmacao: "Desapegar das comparações e perceber que as redes sociais mostram apenas um recorte da vida dos outros pode ser um passo importante para proteger a saúde emocional, evitando que momentos isolados te afetem de forma negativa.",
