@@ -28,6 +28,7 @@ const perguntas = [
             {
                 texto: "Responder de forma educada e construtiva",
                 afirmacao: "Responder com empatia e respeito pode transformar uma situação negativa em uma oportunidade de diálogo e reflexão, além de reforçar a importância de manter um ambiente saudável nas redes sociais."
+            }
         ]
     },
     {
@@ -40,6 +41,7 @@ const perguntas = [
             {
                 texto: "Eu ficaria na minha e não diria nada. Sei que é errado, mas, às vezes, é difícil interromper uma piada ou se opor ao que os outros estão fazendo, principalmente para não causar um desconforto no grupo."
                 afirmacao: "Você percebe que, embora a pressão social possa fazer você hesitar, é importante refletir sobre o que pode ser feito para não alimentar comportamentos tóxicos. Isso te faz pensar sobre como seria mais fácil fazer a coisa certa se tivéssemos mais coragem para agir contra o que é errado."
+            }
         ]
     },
     {
